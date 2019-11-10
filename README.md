@@ -1,1 +1,1 @@
-This is my advent of code attemps for 2018.
+This is my advent of code attemps for 2018. First version.
